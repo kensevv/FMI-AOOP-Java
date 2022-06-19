@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeedeca8-aed6-4e93-8d47-11f359c591dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c33wwAwhdQu7zx05UB4sR8aM0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13.0.2" />
+    <property name="last_opened_file_path" value="C:/temp/javafx-sdk-13.0.2/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15820312" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Application.FXMLMain">
+    <configuration name="CipherableMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="providers.Main" />
+      <module name="com.providers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="providers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FXMLMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="gui.Main" />
+      <module name="com.gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CipherableMain" />
+      <item itemvalue="Application.FXMLMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CipherableMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeedeca8-aed6-4e93-8d47-11f359c591dd" name="Default Changelist" comment="" />
+      <created>1589743691051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589743691051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="83" key="#FXMLMain" timestamp="1589968174504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="83" key="#FXMLMain/0.0.1536.824@0.0.1536.824" timestamp="1589968174504" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1589967845559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589967845559" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590695685213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590695685213" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1589967935562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589967935562" />
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1589974449047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589974449047" />
+    <state x="523" y="128" key="DetectedRootsChooserDialog" timestamp="1589970767897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="128" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1589970767897" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1589970760316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589970760316" />
+    <state width="1537" height="215" key="GridCell.Tab.0.bottom" timestamp="1589996177581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589996177581" />
+    <state width="1537" height="215" key="GridCell.Tab.0.center" timestamp="1589996177581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589996177581" />
+    <state width="1537" height="215" key="GridCell.Tab.0.left" timestamp="1589996177581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589996177581" />
+    <state width="1537" height="215" key="GridCell.Tab.0.right" timestamp="1589996177581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589996177581" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1590146760975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590146760975" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591017293821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591017293821" />
+    <state x="209" y="33" key="new project wizard" timestamp="1590695980585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590695980585" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589965470973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589965470973" />
+  </component>
+</project>

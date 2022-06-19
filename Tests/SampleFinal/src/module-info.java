@@ -1,0 +1,3 @@
+module SampleFinalTest {
+    exports person;
+}

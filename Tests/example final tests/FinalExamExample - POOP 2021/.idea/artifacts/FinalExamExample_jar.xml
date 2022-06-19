@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinalExamExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FinalExamExample_jar</output-path>
+    <root id="archive" name="FinalExamExample.jar">
+      <element id="module-output" name="FinalExamExample" />
+    </root>
+  </artifact>
+</component>

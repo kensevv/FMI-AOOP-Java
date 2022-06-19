@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Homework6:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Homework6_jar</output-path>
+    <root id="archive" name="Homework6.jar">
+      <element id="module-output" name="Homework6" />
+      <element id="module-output" name="com.providers" />
+      <element id="module-output" name="com.services" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-13/lib/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
